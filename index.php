@@ -77,7 +77,7 @@ session_start();
                <div class="container">
                <center>
                    <p>
-                   <p>This website is developed by Bhushan and Pratibha </p>
+                   <p>This website is developed by Bhushan and Bhavesh </p>
                </center>
                </div>
            </footer>
