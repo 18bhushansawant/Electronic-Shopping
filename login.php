@@ -50,7 +50,7 @@
            <footer class="footer">
                <div class="container">
                 <center>
-                   <p>This website is developed by Bhushan and Pratibha</p>
+                   <p>This website is developed by Bhushan and Bhavesh</p>
                </center>
                </div>
            </footer>
